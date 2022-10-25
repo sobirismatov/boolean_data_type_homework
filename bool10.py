@@ -9,4 +9,3 @@ def main(a):
     """
     # Write your code here
     return sqrt(a)==int(sqrt(a))
-print(main(4))
